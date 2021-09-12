@@ -1,5 +1,23 @@
 h1 {
     color: blue;
     text-align:center;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color: lightcyan;
+
+}
+p1 {
+    background-color: skyblue;
+    font-size:large;
+    font-weight: bold;
+    border-radius: .5cm;
+}
+p {
+    background-color:skyblue;
+    color: black;
+    text-align:center;
     font-size: medium;
+    border-radius: 1cm;
 }
