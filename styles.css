@@ -1,4 +1,4 @@
-h1, p, h4, h6{
+h1, p, h4, h6 {
     text-align:center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -84,6 +84,7 @@ div {
 }
 .div3 {
     border-color: #777787;
+    width: 95%;
 }
 a:hover {
     font-size: larger;
