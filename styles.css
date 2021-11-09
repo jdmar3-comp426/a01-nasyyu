@@ -90,11 +90,6 @@ a:hover {
     text-decoration: underline;
     text-decoration-color: #0000FF;
 }
-p[id=bottom] {
-    color: #FFFFFF;
-    background-color: #000000;
-    border-color: #FFFFFF;
-}
 #bottom {
     color: #FFFFFF;
     background-color: #000000;
