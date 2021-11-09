@@ -44,7 +44,7 @@ p {
     font-size: 80%;
     border-style:dashed;
 }
-.p1 {
+p.p1 {
     background-color:#FFBFBF;
 }
 .p2 {
