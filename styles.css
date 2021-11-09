@@ -1,5 +1,5 @@
 h1, p, h4, h6 {
-    text-align:center;
+    text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -8,7 +8,7 @@ body {
 }
 
 h1, h4, h6{
-    font-size:100%;
+    font-size: 100%;
     font-family: Verdana, Tahoma, sans-serif;
     border-left: 3vw;
     border-right: 3vw;
@@ -20,7 +20,7 @@ h1 {
 }
 
 h2, h3, h5 {
-    font-size:100%;
+    font-size: 100%;
     font-weight: bold;
     margin-right: 74vw;
 }
@@ -50,14 +50,14 @@ h6 {
 }
 
 p {
-    background-color:#A7E6FF;
+    background-color: #A7E6FF;
     color: #000000;
     font-size: 80%;
-    border-style:dashed;
+    border-style: dashed;
 }
 
 .p1 {
-    background-color:#FFBFBF;
+    background-color: #FFBFBF;
 }
 
 .p2 {
@@ -69,15 +69,15 @@ p {
 }
 
 img {
-    border-color:#C4DFF8;
+    border-color: #C4DFF8;
     image-rendering: pixelated;
-    margin-left:35%;
+    margin-left: 35%;
     border-width: 1.5vw;
     border-style: ridge;
 }
 
 .img1 {
-    border-color:#D86E7F;
+    border-color: #D86E7F;
 }
 
 .img2 {
@@ -89,7 +89,9 @@ img {
 }
 
 div {
-    border: 2vw solid #20B2AA;
+    border: 2vw;
+    border-style: solid;
+    border-color: #20B2AA;
     width: 93%;
     height: 100%;
     padding: .5vw;
