@@ -26,7 +26,7 @@ h2 {
     background-color: #87ceeb;
 }
 h3 {
-    background-color: #FF998B;    
+    background-color: #FF998B;
 }
 h4 {
     color: #FF0000;
@@ -45,7 +45,6 @@ p {
     background-color:#A7E6FF;
     color: #000000;
     font-size: 80%;
-    /*border-radius: 4vw;*/
     border-style:dashed;
 }
 
